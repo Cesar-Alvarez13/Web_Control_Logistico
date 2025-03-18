@@ -14,7 +14,7 @@ Tecnologias: React, TypeScript, CSS, Vite y Tailwind, Figma, Image Creator in Bi
 
 [![image.png](https://i.postimg.cc/c1Vd1GgV/image.png)](https://postimg.cc/9zt61SBp)
 
-[![image.png](https://i.postimg.cc/c4RjYpCg/image.png)](https://postimg.cc/QHM0Znph)
+[![image.png](https://i.postimg.cc/kXv1DWYW/image.png)](https://postimg.cc/cr6MbtSJ)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
