@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+Desarrollo del frontend de una aplicación web dirigida al jefe de área o administrador para optimizar la logística de entregas. La aplicación incluye módulos para la creación de rutas, asignación y seguimiento de su estado, así como la gestión eficiente de pedidos y facturas. Se desarrollará utilizando React, TypeScript, CSS, Vite y Tailwind, proporcionando una interfaz intuitiva y eficiente para la administración de las operaciones logísticas.
+
+Tecnologias: React, TypeScript, CSS, Vite y Tailwind, Css, Figma, Image Creator in Bing
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
