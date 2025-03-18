@@ -4,6 +4,16 @@ Desarrollo del frontend de una aplicación web dirigida al jefe de área o admin
 
 Tecnologias: React, TypeScript, CSS, Vite y Tailwind, Css, Figma, Image Creator in Bing
 
+[![image.png](https://i.postimg.cc/MHng2Hmv/image.png)](https://postimg.cc/n9t3qH5J)
+
+[![image.png](https://i.postimg.cc/YC6ZwJYf/image.png)](https://postimg.cc/QFM0QY6H)
+
+[![image.png](https://i.postimg.cc/FKhqFDxt/image.png)](https://postimg.cc/xXFgtG7g)
+
+[![image.png](https://i.postimg.cc/pT61ZxMx/image.png)](https://postimg.cc/7GSVHFLQ)
+
+[![image.png](https://i.postimg.cc/c1Vd1GgV/image.png)](https://postimg.cc/9zt61SBp)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
