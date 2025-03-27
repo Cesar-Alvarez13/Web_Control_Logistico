@@ -4,6 +4,9 @@ Desarrollo del frontend de una aplicación web dirigida al jefe de área o admin
 
 Tecnologias: React, TypeScript, CSS, Vite y Tailwind, Figma, Image Creator in Bing
 
+
+![image](https://github.com/user-attachments/assets/475fb27b-10ae-4216-95e5-bb9b5961cdd5)
+
 [![image.png](https://i.postimg.cc/MHng2Hmv/image.png)](https://postimg.cc/n9t3qH5J)
 
 [![image.png](https://i.postimg.cc/WbYVrWZv/image.png)](https://postimg.cc/PPD0nMK3)
