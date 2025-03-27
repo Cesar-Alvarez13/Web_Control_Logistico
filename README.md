@@ -4,22 +4,19 @@ Desarrollo del frontend de una aplicación web dirigida al jefe de área o admin
 
 Tecnologias: React, TypeScript, CSS, Vite y Tailwind, Figma, Image Creator in Bing
 
+![image](https://github.com/user-attachments/assets/fae799b7-49ab-47ff-b31f-3158b1e577e4)
 
-![image](https://github.com/user-attachments/assets/475fb27b-10ae-4216-95e5-bb9b5961cdd5)
+![image](https://github.com/user-attachments/assets/cf061a22-d584-402e-85ed-108477306ee0)
 
-[![image.png](https://i.postimg.cc/MHng2Hmv/image.png)](https://postimg.cc/n9t3qH5J)
+![image](https://github.com/user-attachments/assets/26d40ef8-fee0-45c4-955f-7cdfc7976f88)
 
-[![image.png](https://i.postimg.cc/WbYVrWZv/image.png)](https://postimg.cc/PPD0nMK3)
+![image](https://github.com/user-attachments/assets/787f80f2-1c2f-4ed5-9117-994e2a68baae)
 
-[![image.png](https://i.postimg.cc/YC6ZwJYf/image.png)](https://postimg.cc/QFM0QY6H)
+![image](https://github.com/user-attachments/assets/a96ab8b9-0f64-434c-831a-8e24dd7fe638)
 
-[![image.png](https://i.postimg.cc/FKhqFDxt/image.png)](https://postimg.cc/xXFgtG7g)
+![image](https://github.com/user-attachments/assets/8c838525-5ea7-4c10-900a-0a32a91849d6)
 
-[![image.png](https://i.postimg.cc/pT61ZxMx/image.png)](https://postimg.cc/7GSVHFLQ)
 
-[![image.png](https://i.postimg.cc/c1Vd1GgV/image.png)](https://postimg.cc/9zt61SBp)
-
-[![image.png](https://i.postimg.cc/kXv1DWYW/image.png)](https://postimg.cc/cr6MbtSJ)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
